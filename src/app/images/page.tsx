@@ -1,5 +1,5 @@
+import NextImg from "@/assets/twitter-card.png";
 import Image from "next/image";
-import NextImg from "../../assets/twitter-card.png";
 const Imagepage = () => {
   return (
     <div className="text-4xl text-center">

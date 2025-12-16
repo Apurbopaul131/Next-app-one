@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Dell Inspiron 15",
+      "category": "Laptop",
+      "price": 65000,
+      "image": "https://example.com/images/dell-inspiron-15.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "HP Pavilion 14",
+      "category": "Laptop",
+      "price": 72000,
+      "image": "https://example.com/images/hp-pavilion-14.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Lenovo IdeaPad Slim 3",
+      "category": "Laptop",
+      "price": 58000,
+      "image": "https://example.com/images/lenovo-ideapad-slim-3.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "Apple MacBook Air M1",
+      "category": "Laptop",
+      "price": 110000,
+      "image": "https://example.com/images/macbook-air-m1.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Asus VivoBook 15",
+      "category": "Laptop",
+      "price": 60000,
+      "image": "https://example.com/images/asus-vivobook-15.jpg"
+    }
+  ]
+}
